@@ -1,0 +1,46 @@
+H:\VCUOJ\DepDB\DepApp\DepApp\bin\Debug\DepApp.exe.config
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.csprojResolveAssemblyReference.cache
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.Department_Form.resources
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.Employee_Form.resources
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.EmployeeFilter.resources
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.Main.resources
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.Properties.Resources.resources
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.csproj.GenerateResource.Cache
+H:\VCUOJ\DepDB\DepApp\DepApp\bin\Debug\DepartmentDB.mdf
+H:\VCUOJ\DepDB\DepApp\DepApp\bin\Debug\DepartmentDB_log.ldf
+H:\VCUOJ\DepDB\DepApp\DepApp\bin\Debug\DepApp.exe
+H:\VCUOJ\DepDB\DepApp\DepApp\bin\Debug\DepApp.pdb
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.exe
+H:\VCUOJ\DepDB\DepApp\DepApp\obj\Debug\DepApp.pdb
+E:\VCUOJ\Final Answer\DepApp\DepApp\bin\Debug\DepartmentDB.mdf
+E:\VCUOJ\Final Answer\DepApp\DepApp\bin\Debug\DepartmentDB_log.ldf
+E:\VCUOJ\Final Answer\DepApp\DepApp\bin\Debug\DepApp.exe.config
+E:\VCUOJ\Final Answer\DepApp\DepApp\bin\Debug\DepApp.exe
+E:\VCUOJ\Final Answer\DepApp\DepApp\bin\Debug\DepApp.pdb
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csprojAssemblyReference.cache
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Employee_Form.resources
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Main.resources
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Properties.Resources.resources
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csproj.GenerateResource.cache
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csproj.CoreCompileInputs.cache
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.exe
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.pdb
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.LoginForm.resources
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.LMS.resources
+E:\VCUOJ\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Register.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\bin\Debug\DepartmentDB.mdf
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\bin\Debug\DepartmentDB_log.ldf
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\bin\Debug\DepApp.exe.config
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\bin\Debug\DepApp.exe
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\bin\Debug\DepApp.pdb
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csprojAssemblyReference.cache
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.LoginForm.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Register.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Employee_Form.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.LMS.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Main.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.Properties.Resources.resources
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csproj.GenerateResource.cache
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.csproj.CoreCompileInputs.cache
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.exe
+E:\VCUOJ\1st sem\TICT3122\Final Answer\DepApp\DepApp\obj\Debug\DepApp.pdb
